@@ -1,0 +1,18 @@
+CoGy (Code Gym)
+Introduction
+
+This is an informal, community driven group of technology enthusiasts who want to sharpen their technical interview skills, discuss Computer Science concepts, System Design, AI, or any other related topics.
+
+The group is for anyone who wants to acquire coding skills and excel in interviews and/ or  collaborate in building or vibe coding a microSaaS.
+
+Join us in Castro Valley public library between 10 am - noon every Saturday.
+
+The coding algorithm includes arrays, strings, graphs, trees, stacks, queues, linked lists, bit manipulation, concurrent programming, databases, probability, recursion, mathematical questions and graphs. The initial study plan is to complete: neetcode - blind75
+
+Venue: Hayward Public Library or Castro Valley Library
+
+Self link: https://bit.ly/code-gym 
+
+NOTE:
+The agenda, format, schedule and venue is subject to change.
+This is also a function of your support and ❤️
